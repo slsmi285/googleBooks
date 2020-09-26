@@ -20,10 +20,9 @@
   "devDependencies": {
     "concurrently": "^4.1.0",
     "gh-pages": "^2.0.1",
-    "nodemon": "^1.18.7",
-  "bugs": {
-    "url": "https://github.com/slsmi285/googleBooks/issues"
+    "nodemon": "^1.18.7"
   },
+
   "homepage": "https://github.com/slsmi285/googleBooks#readme",
   "dependencies": {
     "axios": "^0.20.0",
